@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Virtualenv
+env/
+venv/
+.venv/
+
+# Django
+/media/
+staticfiles/
+*.log
+
+# React
+node_modules/
+build/
+
+# Secrets
+.env
+
